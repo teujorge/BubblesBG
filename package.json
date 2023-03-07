@@ -1,6 +1,6 @@
 {
     "name": "bubblesbg",
-    "version": "0.9.0",
+    "version": "0.9.9",
     "description": "A smooth yet bubbly background for your web app.",
     "main": "src/cjs/index.js",
     "module": "src/esm/index.js",
