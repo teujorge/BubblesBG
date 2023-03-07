@@ -1,0 +1,31 @@
+{
+  "name": "bubblesbg",
+  "version": "1.0.0",
+  "description": "A smooth yet bubbly background for your web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teujorge/BubblesBG.git"
+  },
+  "keywords": [
+    "balls",
+    "floating",
+    "bubbles",
+    "background"
+  ],
+  "author": "Matheus Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teujorge/BubblesBG/issues"
+  },
+  "homepage": "https://github.com/teujorge/BubblesBG#readme",
+  "type": "module",
+  "dependencies": {
+    "@emotion/css": "^11.10.6",
+    "react": "^17.0.2"
+  },
+  "types": "@emotion/react/types/css-prop"
+}
